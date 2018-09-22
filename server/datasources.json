@@ -1,0 +1,12 @@
+{
+  "ds_ema": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "popoints",
+    "password": "123456",
+    "name": "ds_ema",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
